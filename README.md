@@ -12,5 +12,5 @@ The executable file can be found inside the generated dist folder
 ## GUI screenshots
 
 ![Bisection](https://github.com/aylin-vdo/Numerical_Analysis_Calculators/blob/main/bisection.png)
-![Lagrange]https://github.com/aylin-vdo/Numerical_Analysis_Calculators/blob/main/lagrange.png)
+![Lagrange](https://github.com/aylin-vdo/Numerical_Analysis_Calculators/blob/main/lagrange.png)
 ![Barreiss](https://github.com/aylin-vdo/Numerical_Analysis_Calculators/blob/main/barreiss.png)
