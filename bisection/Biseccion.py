@@ -1,5 +1,5 @@
-from stringprep import in_table_a1
-from telnetlib import XAUTH
+#from stringprep import in_table_a1
+#from telnetlib import XAUTH
 import tkinter as tk
 #from tkinter import *
 import customtkinter as ctk
